@@ -26,13 +26,8 @@ Optimized a national distribution network using **Mixed-Integer Linear Programmi
 pip install -r requirements.txt
 Run the analysis (in order)
 
-3. **Run the analysis**
 ```bash
 python src/01_data_transformation.py
 python src/02_optimization_model.py
 python src/03_visualization.py  
 python src/04_business_insights.py
-
-Run All Scripts
-```bash
-python run_all.py
