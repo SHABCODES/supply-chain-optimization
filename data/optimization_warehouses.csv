@@ -1,0 +1,11 @@
+warehouse_id,monthly_capacity_kg,monthly_fixed_cost
+Warehouse_ATL,644,31839
+Warehouse_BOS,1025,50675
+Warehouse_CHI,568,28081
+Warehouse_DEN,506,25016
+Warehouse_HOU,572,28279
+Warehouse_LA,754,37277
+Warehouse_MIA,486,24027
+Warehouse_NYC,471,23286
+Warehouse_SEA,458,22643
+Warehouse_SF,584,28872
