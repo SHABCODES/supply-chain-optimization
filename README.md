@@ -14,7 +14,7 @@ Optimized a national distribution network using **Mixed-Integer Linear Programmi
 - **Optimal 8-warehouse network** serving 15 cities
 
 ##  Demo
-![Optimization Results](results/optimization_results.png)
+![supply_chain_optimization_results](results/supply_chain_optimization_results.png)
 *Cost breakdown, warehouse utilization, and demand distribution*
 
 ##  Quick Start
