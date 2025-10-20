@@ -20,13 +20,14 @@ Optimized a national distribution network using **Mixed-Integer Linear Programmi
    ```bash
    git clone https://github.com/yourusername/supply-chain-optimization.git
    cd supply-chain-optimization
-Install dependencies
 
-bash
+2. **Install dependencies**
+ ```bash
 pip install -r requirements.txt
 Run the analysis (in order)
 
-bash
+3.  **Run the analysis (in order)**
+   ```bash
 python src/01_data_transformation.py
 python src/02_optimization_model.py
 python src/03_visualization.py  
