@@ -1,0 +1,2 @@
+optimal_warehouses,total_monthly_demand_kg,total_monthly_cost,avg_cost_per_kg,selected_warehouses
+8,5030.8,263016.6899083255,52.28128526443617,"Warehouse_BOS, Warehouse_DEN, Warehouse_HOU, Warehouse_LA, Warehouse_MIA, Warehouse_NYC, Warehouse_SEA, Warehouse_SF"
