@@ -38,6 +38,7 @@ python run_all.py
 
 ### Run Individual Steps
 For development or debugging, you can execute the analysis step-by-step:
+bash
 # Step 1: Data preparation
 python src/01_data_transformation.py
 
